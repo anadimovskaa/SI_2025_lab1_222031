@@ -1,0 +1,21 @@
+*   6df36d9 (HEAD -> master, origin/master, origin/HEAD) Resolved merge conflicts in third-issue
+|\
+| * af9dc93 (origin/2-list-tasks-sorted-by-name, 2-list-tasks-sorted-by-name) List tasks sorted by name
+* |   8382ace Merge pull request #10 from anadimovskaa/6-count-tasks-per-category
+|\ \
+| * \   767921e (origin/6-count-tasks-per-category, 6-count-tasks-per-category) Count tasks per category
+| |\ \
+| |/ /
+|/| |
+* | |   30a753f Merge pull request #9 from anadimovskaa/1-remove-a-task-by-name
+|\ \ \
+| |_|/
+|/| |
+| * | e47bab7 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Remove a task by name
+|/ /
+| * 9b67994 Count tasks per category
+|/
+* f09c35f Add starter code
+* 5fca43c Intitial commit
+* be8f3fc Intitial commit
+* 47f4a4d first commit

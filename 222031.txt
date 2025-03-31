@@ -1,0 +1,37 @@
+Komandi od 2 i 3 del za Lab 1:
+
+- git fetch origin 
+- git checkout 1-remove-a-task-by-name
+- notepad SI2025Lab1Main.java (за да го уредам кодот за првиот issue) 
+- git add . 
+- git commit -m "Remove a task by name"
+- git push origin 1-remove-a-task-by-name
+
+-git checkout master
+-git fetch origin 
+- git checkout 1-remove-a-task-by-name
+- notepad SI2025Lab1Main.java (за да го уредам кодот за првиот issue) 
+- git add . 
+- git commit -m "Count tasks per category"
+- git push origin 6-count-tasks-per-category
+
+-git checkout master
+-git fetch origin 
+- git checkout 1-remove-a-task-by-name
+- notepad SI2025Lab1Main.java (за да го уредам кодот за првиот issue) 
+- git add . 
+- git commit -m "List tasks sorted by name"
+- git push origin  2-list-tasks-sorted-by-name
+
+-git checkout master
+-git pull origin master
+-git merge 2-list-tasks-sorted-by-name
+
+-echo > logs.txt
+-notepad logs.txt
+-git log --oneline --graph --all
+
+-echo > 222031.txt
+-notepad 222031.txt
+
+
